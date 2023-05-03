@@ -21,6 +21,8 @@ obj/
 *.user
 *.unityproj
 *.booproj
+.vs/
+.vscode/
 
 # ===================================== #
 # Unity generated #
